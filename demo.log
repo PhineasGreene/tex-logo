@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.6)  22 SEP 2020 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.6)  22 SEP 2020 21:43
 entering extended mode
 **./demo.tex
 (demo.tex
@@ -516,10 +516,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/phine/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (demo.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 13251 strings out of 481556
- 271079 string characters out of 2913870
- 519186 words of memory out of 3000000
- 28271 multiletter control sequences out of 15000+200000
+ 13253 strings out of 481556
+ 271131 string characters out of 2913870
+ 519163 words of memory out of 3000000
+ 28273 multiletter control sequences out of 15000+200000
  535310 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,9n,62p,424b,725s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -529,7 +529,7 @@ blic/amsfonts/cm/cmr10.pfb><C:/Users/phine/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/phine/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/phine/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
-Output written on demo.pdf (1 page, 57154 bytes).
+Output written on demo.pdf (1 page, 58069 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
